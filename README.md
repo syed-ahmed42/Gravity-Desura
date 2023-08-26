@@ -6,8 +6,9 @@
 ### Game can be downloaded from here: https://sysmed.itch.io/gravity-desura
 
 
-![GameGif_01](https://github.com/syed-ahmed42/Gravity-Desura-Code/assets/76643525/09b0c4cf-227f-4b6e-91c7-99b90a29fe1f)
 ![GameGif_02](https://github.com/syed-ahmed42/Gravity-Desura-Code/assets/76643525/9abc1ea5-0494-4325-9958-9ca81a36889d)
+![GameGif_01](https://github.com/syed-ahmed42/Gravity-Desura-Code/assets/76643525/09b0c4cf-227f-4b6e-91c7-99b90a29fe1f)
+
 
 
 ![JMiXkV](https://user-images.githubusercontent.com/76643525/172752557-e7a17aad-dc5f-4249-9a0e-e8222d513243.png)
