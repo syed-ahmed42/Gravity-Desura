@@ -3,6 +3,8 @@
 ### This is a short 2D Platformer that was made in the style of the old NES games.
 ### Game created mainly using Unity and C#. Sprites made using Piskel.
 
+### Game can be downloaded from here: https://sysmed.itch.io/gravity-desura
+
 
 ![GameGif_01](https://github.com/syed-ahmed42/Gravity-Desura-Code/assets/76643525/f8dbdb4e-fbec-464b-8078-a99df353df56)
 ![GameGif_02](https://github.com/syed-ahmed42/Gravity-Desura-Code/assets/76643525/fc0c02c3-f725-48b4-acaa-47be59daa563)
